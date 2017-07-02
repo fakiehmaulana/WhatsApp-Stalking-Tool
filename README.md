@@ -11,7 +11,7 @@ Welcome stalkers :wink:
 - Whatsapp Messenger (iOS) 2.17.31, french language
 
 ## Install :
-1. Instal latest version of [Anaconda](https://www.continuum.io/downloads).
+1. Install latest version of [Anaconda](https://www.continuum.io/downloads).
 2. Dowload and unzip files from this repository.
 3. Export a conversation from WhatsApp :
     * Enter a conversation.
