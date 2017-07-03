@@ -18,6 +18,6 @@ Welcome stalkers :wink:
     * Click on the conversation's name.
     * Export conversation history "without media". Send to yourself.
     * Unzip the file and place into the same folder as the files from this repository.
-4. Launch Anaconda-Navigator then Jupyter Notebook, find the folder where the files from this repository are and launch Stalk.ipynb.
-5. Set 'filename' to the name of the .txt file containing the conversation history.
-6. Shift + Enter to excecute a cell.
+4. Launch Anaconda-Navigator then Jupyter Notebook, find the folder where the files from this repository are and launch `Stalk.ipynb`.
+5. Set `filename` to the name of the .txt file containing the conversation history.
+6. `Shift` + `Enter` to excecute a cell.
